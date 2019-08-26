@@ -1,1 +1,1 @@
-Just some files/configs that I use. This stuff is **not** made or owned by me.
+Some files/configs that I use. Not all of this stuff is made/owned by me.
