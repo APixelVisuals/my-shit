@@ -1,0 +1,28 @@
+{
+	"changelog": {
+		"currentversion": "2.5.5"
+	},
+	"settings": {
+		"showText": true,
+		"showVoice": true,
+		"showNews": true,
+		"showStore": true,
+		"showCategory": false,
+		"showForNormal": false,
+		"showAllowedRoles": false,
+		"showOverWrittenRoles": false,
+		"showAllowedUsers": false,
+		"showDeniedRoles": false,
+		"showDeniedUsers": false,
+		"showTopic": false,
+		"showChannelCategory": false,
+		"showVoiceUsers": false
+	},
+	"amounts": {
+		"hoverDelay": 0
+	},
+	"categorystatus": {
+		"399792986809958401": true,
+		"353698573545635840": true
+	}
+}

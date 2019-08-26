@@ -1,0 +1,111 @@
+{
+	"changelog": {
+		"currentversion": "1.9.9"
+	},
+	"settings": {
+		"addContextMenu": true,
+		"addAutoComplete": true
+	},
+	"amounts": {
+		"minAliasLength": 2
+	},
+	"configs": {
+		"case": false,
+		"exact": true,
+		"autoc": true,
+		"regex": false,
+		"file": false
+	},
+	"words": {
+		"adoref": {
+			"replace": "https://m.do.co/c/df0baa1472d8",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"asite": {
+			"replace": "https://apixel.me",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"gsay": {
+			"replace": "g!say",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"apaypalme": {
+			"replace": "https://paypal.me/sendapixel",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"apaypal": {
+			"replace": "sendapixelvisuals@gmail.com",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"aemail": {
+			"replace": "apixelvisualsofficial@gmail.com",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"ghub": {
+			"replace": "https://discord.gg/eCDafVC",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"apatreon": {
+			"replace": "https://patreon.com/APixelVisuals",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"ginvite": {
+			"replace": "https://geolabot.com/invite",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		},
+		"gsite": {
+			"replace": "https://geolabot.com",
+			"filedata": null,
+			"case": false,
+			"exact": true,
+			"autoc": true,
+			"regex": false,
+			"file": false
+		}
+	}
+}

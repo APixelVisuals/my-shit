@@ -1,0 +1,9 @@
+{
+    "rectangle_thickness_default": 10,
+    "rectangle_color_default": "#ff0000",
+    "draw_size_default": 10,
+    "draw_color_default": "#ff0000",
+    "erase_size_default": 20,
+    "blur_amount_default": "3",
+    "inverse blur_amount_default": 3
+}

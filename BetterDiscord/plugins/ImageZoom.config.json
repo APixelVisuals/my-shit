@@ -1,0 +1,9 @@
+{
+	"changelog": {
+		"currentversion": "1.0.2"
+	},
+	"settings": {
+		"zoomlevel": 2,
+		"lensesize": 200
+	}
+}
