@@ -125,6 +125,10 @@ neofetch
 # Aliases
 alias weather="ansiweather"
 alias sup="echo -e 'geola\napixel-website\nkogit' | dmenu | startup"
+kill-port() {
+    sudo kill -9 $(sudo lsof -t -i:$1)
+    echo "Done!"
+}
 
 # SSH
 alias ssh-apixel="ssh root@165.22.165.76 -i /home/apixel/ssh-keys/apixel-private.pem"
