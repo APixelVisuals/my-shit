@@ -1,14 +1,4 @@
 {
-	"changelog": {
-		"currentversion": "1.4.3"
-	},
-	"settings": {
-		"showInPopout": true,
-		"showInChat": false,
-		"showInMemberList": false,
-		"useColoredVersion": true,
-		"showNitroDate": true
-	},
 	"badges": {
 		"1": true,
 		"2": true,
@@ -18,10 +8,20 @@
 		"128": true,
 		"256": true,
 		"512": true,
-		"1024": true,
-		"2048": true
+		"4096": true,
+		"8192": true
+	},
+	"changelog": {
+		"currentversion": "1.4.9"
 	},
 	"indicators": {
 		"CURRENT_GUILD_BOOST": true
+	},
+	"settings": {
+		"showInPopout": true,
+		"showInChat": false,
+		"showInMemberList": false,
+		"useColoredVersion": true,
+		"showNitroDate": true
 	}
 }

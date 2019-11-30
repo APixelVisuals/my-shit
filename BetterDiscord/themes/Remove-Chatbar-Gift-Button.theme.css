@@ -1,0 +1,10 @@
+/**
+ * @name         Remove Chatbar Gift Button
+ * @description  Remove the Nitro gift button on the chatbar
+ * @author       APixel Visuals
+ * @version      1.0
+ */
+
+.buttonWrapper-1ZmCpA.da-buttonWrapper.button-38aScr.da-button.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN.da-grow[aria-label="Send a gift"] {
+    display: none;
+}

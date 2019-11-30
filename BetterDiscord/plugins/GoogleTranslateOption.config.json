@@ -1,15 +1,15 @@
 {
 	"changelog": {
-		"currentversion": "1.7.1"
-	},
-	"settings": {
-		"addTranslateButton": false,
-		"sendOriginalMessage": false
+		"currentversion": "1.7.7"
 	},
 	"choices": {
 		"inputContext": "auto",
 		"outputContext": "$discord",
 		"inputMessage": "auto",
-		"outputMessage": "$discord"
+		"outputMessage": "fr"
+	},
+	"settings": {
+		"addTranslateButton": true,
+		"sendOriginalMessage": false
 	}
 }

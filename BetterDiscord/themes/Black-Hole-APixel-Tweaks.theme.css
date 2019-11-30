@@ -1,0 +1,104 @@
+/**
+ * @name         Black Hole (APixel Tweaks)
+ * @description  Jump into space with this theme. It's just a bedazzled base Discord theme
+ * @author       MonsterDev
+ * @version      1.0
+ * @source       https://github.com/monstrousdev/themes
+ * @website      https://discord.gg/TeRQEPb
+ */
+
+@import "https://monstrousdev.github.io/themes/black-hole/style.css";
+
+/* Red color */
+:root {
+    --dnd-sheer: #c52828;
+}
+
+/* Scrollbar */
+.scroller-2FKFPG::-webkit-scrollbar-thumb,
+.rolesList-22qj2L::-webkit-scrollbar-thumb,
+#bd-settingspane-container .scroller-wrap .scroller::-webkit-scrollbar-thumb {
+    background-color: #ffffff60 !important;
+}
+
+/* Transparent bg image */
+#app-mount .content-yTz4x3,
+#app-mount .activityFeed-28jde9m,
+.gameLibrary-TTDw4Y .scrollerWrap-2lJEkd,
+.friendsTable-133bsv,
+.applicationStore-1pNvnv .scrollerWrap-2lJEkd,
+.activityFeed-1C0EmJ .scrollerWrap-2lJEkd,
+.root-1BQpZw .scrollerWrap-2lJEkd,
+#app-mount .noChannel-Z1DQK7 {
+    background: var(--quatro) url("https://i.imgur.com/X9eDtMu.png") top left !important;
+}
+
+/* Day dividers */
+#app-mount .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after {
+    display: none;
+}
+
+#app-mount .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after {
+    display: none;
+}
+
+#app-mount .dividerContent-2L12VI {
+    color: #ffffff63;
+    margin-left: 50%;
+    transform: translate(-50px, 0);
+}
+
+#app-mount .dividerRed-MKoLlr .dividerContent-2L12VI {
+    color: #ffffff63;
+    margin-left: 50%;
+    transform: translate(-50px, 0);
+}
+
+#app-mount .divider-3gKybi:not(.dividerRed-MKoLlr) {
+    border-bottom: 1px #ffffff2c solid;
+}
+
+#app-mount .divider-3gKybi.dividerRed-MKoLlr {
+    border-bottom: 1px #ffffff2c solid;
+}
+
+/* Add server and server directory buttons */
+#app-mount .circleIconButton-jET_ig {
+    background-color: #ffffff36;
+}
+
+#app-mount .circleIconButton-jET_ig {
+    color: white;
+}
+
+/* Server Menu */
+#app-mount .menu-Sp6bN1 {
+    display: block;
+    background-color: var(--uno);
+    border-radius: 5px;
+}
+
+.item-1GzJrl {
+    width: initial;
+    padding: 10px 25px;
+}
+
+.label-1Y-LW5 {
+    display: initial;
+    margin-right: 50px;
+}
+
+/* Chatbar */
+#app-mount .members-1998pB::after {
+    display: none;
+}
+
+#app-mount .chat-3bRxxu form {
+    margin-bottom: 25px;
+}
+
+#app-mount .chat-3bRxxu form .typing-2GQL18 {
+    background-color: transparent;
+    bottom: -30px;
+    margin-left: -20px;
+}
