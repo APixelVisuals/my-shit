@@ -14,5 +14,5 @@ electron.app.on("ready", () => {
     window.on("closed", () => window = null);
 
     //Load index.html
-    window.loadURL(process.env.ELECTRON_START_URL || `file://${__dirname}/build/index.html`);
+    window.loadURL(process.env.DEV === "true" ? "http://localhost:3000" : `file://${__dirname}/build/index.html`);
 });
