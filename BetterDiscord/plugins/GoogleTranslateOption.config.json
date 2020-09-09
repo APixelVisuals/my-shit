@@ -1,6 +1,6 @@
 {
 	"changelog": {
-		"currentversion": "1.7.7"
+		"currentversion": "2.0.9"
 	},
 	"choices": {
 		"inputContext": "auto",
@@ -8,8 +8,12 @@
 		"inputMessage": "auto",
 		"outputMessage": "fr"
 	},
+	"engines": {
+		"translator": "google"
+	},
 	"settings": {
 		"addTranslateButton": true,
-		"sendOriginalMessage": false
+		"sendOriginalMessage": false,
+		"useChromium": false
 	}
 }

@@ -1,0 +1,10 @@
+/**
+ * @name         Gun Emoji Fix
+ * @description  Fix the weak ass watergun emoji bullshit
+ * @author       APixel Visuals
+ * @version      1.0
+ */
+
+[aria-label=":gun:"] {
+    content: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/31/pistol_1f52b.png");
+}

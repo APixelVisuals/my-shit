@@ -1,17 +1,17 @@
 {
     "currentVersionInfo": {
-        "version": "2.3.7",
+        "version": "2.3.10",
         "hasShownChangelog": true
     },
     "settings": {
         "toolbar": {
-            "bold": false,
-            "italic": false,
-            "underline": false,
-            "strikethrough": false,
-            "spoiler": false,
-            "code": false,
-            "codeblock": false,
+            "bold": true,
+            "italic": true,
+            "underline": true,
+            "strikethrough": true,
+            "spoiler": true,
+            "code": true,
+            "codeblock": true,
             "superscript": true,
             "smallcaps": true,
             "fullwidth": true,

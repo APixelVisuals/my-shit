@@ -1,20 +1,23 @@
 {
 	"changelog": {
-		"currentversion": "1.2.3"
+		"currentversion": "1.3.3"
 	},
 	"inputs": {
-		"ownTagName": "Owner",
-		"ownAdminTagName": "Admin"
+		"ownAdminTagName": "Admin",
+		"ownManagementTagName": "Management",
+		"ownTagName": "Owner"
 	},
 	"settings": {
+		"addForAdmins": false,
+		"addForManagement": false,
 		"addInChatWindow": false,
 		"addInMemberList": true,
 		"addInUserPopout": true,
-		"addInUserProfil": false,
-		"useRoleColor": true,
+		"addInUserProfile": true,
+		"hideNativeCrown": true,
+		"ignoreBotAdmins": false,
 		"useBlackFont": true,
 		"useCrown": false,
-		"hideNativeCrown": true,
-		"addForAdmins": false
+		"useRoleColor": true
 	}
 }
